@@ -9,3 +9,5 @@ https://phoenixnap.com/kb/cannot-connect-to-the-docker-daemon-error
 https://docs.docker.com/engine/install/linux-postinstall/
 
 https://docs.portainer.io/start/install/server/docker/linux
+
+https://stackoverflow.com/questions/38775954/sudo-docker-compose-command-not-found#50243566
