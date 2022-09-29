@@ -104,11 +104,11 @@ Build tools, such as Maven, are used for obtaining dependencies (required extern
 ```bash
 $ git pull origin
 #File Changes...
-$ git status 
+$ git status  
 $ git add * 
 $ git commit -m "NEW: File Changes" 
 $ git push -u origin main
-```
+``` 
 
 ### d) There are strong opinions on how to write Git commit messages... Find some best practices online and give your own informed recommendations on how to write good commit messages (in a team project).
 [How to level up your commit messages](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
