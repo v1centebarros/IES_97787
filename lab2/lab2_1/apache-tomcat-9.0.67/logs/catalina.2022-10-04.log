@@ -1,0 +1,168 @@
+04-Oct-2022 14:55:18.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.67
+04-Oct-2022 14:55:18.909 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 23 2022 11:22:29 UTC
+04-Oct-2022 14:55:18.910 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.67.0
+04-Oct-2022 14:55:18.910 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+04-Oct-2022 14:55:18.910 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.19.0-76051900-generic
+04-Oct-2022 14:55:18.910 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-Oct-2022 14:55:18.910 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-17-openjdk-amd64
+04-Oct-2022 14:55:18.910 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.4+8-Ubuntu-122.04
+04-Oct-2022 14:55:18.910 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Private Build
+04-Oct-2022 14:55:18.910 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67
+04-Oct-2022 14:55:18.910 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67
+04-Oct-2022 14:55:18.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Oct-2022 14:55:18.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Oct-2022 14:55:18.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Oct-2022 14:55:18.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Oct-2022 14:55:18.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Oct-2022 14:55:18.916 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/conf/logging.properties
+04-Oct-2022 14:55:18.916 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Oct-2022 14:55:18.916 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-Oct-2022 14:55:18.916 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Oct-2022 14:55:18.916 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+04-Oct-2022 14:55:18.916 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+04-Oct-2022 14:55:18.916 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67
+04-Oct-2022 14:55:18.916 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67
+04-Oct-2022 14:55:18.916 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/temp
+04-Oct-2022 14:55:18.917 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+04-Oct-2022 14:55:19.087 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Oct-2022 14:55:19.100 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [288] milliseconds
+04-Oct-2022 14:55:19.119 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Oct-2022 14:55:19.119 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.67]
+04-Oct-2022 14:55:19.123 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/ROOT]
+04-Oct-2022 14:55:19.252 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/ROOT] has finished in [129] ms
+04-Oct-2022 14:55:19.253 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/docs]
+04-Oct-2022 14:55:19.263 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/docs] has finished in [10] ms
+04-Oct-2022 14:55:19.263 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/host-manager]
+04-Oct-2022 14:55:19.282 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/host-manager] has finished in [19] ms
+04-Oct-2022 14:55:19.282 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/manager]
+04-Oct-2022 14:55:19.296 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/manager] has finished in [14] ms
+04-Oct-2022 14:55:19.296 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/examples]
+04-Oct-2022 14:55:19.411 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/examples] has finished in [115] ms
+04-Oct-2022 14:55:19.413 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Oct-2022 14:55:19.419 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [318] milliseconds
+04-Oct-2022 14:55:19.421 SEVERE [main] org.apache.catalina.core.StandardServer.await Failed to create server shutdown socket on address [localhost] and port [8005] (base port [8005] and offset [0])
+	java.net.BindException: Address already in use
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:555)
+		at java.base/sun.nio.ch.Net.bind(Net.java:544)
+		at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:643)
+		at java.base/java.net.ServerSocket.bind(ServerSocket.java:388)
+		at java.base/java.net.ServerSocket.<init>(ServerSocket.java:274)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:580)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:864)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:810)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:476)
+04-Oct-2022 14:55:19.421 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+04-Oct-2022 14:55:19.423 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Oct-2022 14:55:19.433 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+04-Oct-2022 14:55:19.436 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+04-Oct-2022 14:57:25.435 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.67
+04-Oct-2022 14:57:25.437 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 23 2022 11:22:29 UTC
+04-Oct-2022 14:57:25.437 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.67.0
+04-Oct-2022 14:57:25.437 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+04-Oct-2022 14:57:25.437 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.19.0-76051900-generic
+04-Oct-2022 14:57:25.438 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-Oct-2022 14:57:25.438 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-17-openjdk-amd64
+04-Oct-2022 14:57:25.438 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.4+8-Ubuntu-122.04
+04-Oct-2022 14:57:25.438 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Private Build
+04-Oct-2022 14:57:25.438 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67
+04-Oct-2022 14:57:25.438 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67
+04-Oct-2022 14:57:25.443 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Oct-2022 14:57:25.443 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Oct-2022 14:57:25.443 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Oct-2022 14:57:25.443 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Oct-2022 14:57:25.443 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Oct-2022 14:57:25.443 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/conf/logging.properties
+04-Oct-2022 14:57:25.443 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Oct-2022 14:57:25.443 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-Oct-2022 14:57:25.444 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Oct-2022 14:57:25.444 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+04-Oct-2022 14:57:25.444 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+04-Oct-2022 14:57:25.444 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67
+04-Oct-2022 14:57:25.444 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67
+04-Oct-2022 14:57:25.444 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/temp
+04-Oct-2022 14:57:25.445 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+04-Oct-2022 14:57:25.605 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Oct-2022 14:57:25.618 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [276] milliseconds
+04-Oct-2022 14:57:25.637 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Oct-2022 14:57:25.637 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.67]
+04-Oct-2022 14:57:25.641 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/ROOT]
+04-Oct-2022 14:57:25.775 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/ROOT] has finished in [134] ms
+04-Oct-2022 14:57:25.775 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/docs]
+04-Oct-2022 14:57:25.786 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/docs] has finished in [11] ms
+04-Oct-2022 14:57:25.786 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/host-manager]
+04-Oct-2022 14:57:25.803 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/host-manager] has finished in [17] ms
+04-Oct-2022 14:57:25.804 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/manager]
+04-Oct-2022 14:57:25.818 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/manager] has finished in [14] ms
+04-Oct-2022 14:57:25.818 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/examples]
+04-Oct-2022 14:57:25.934 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/examples] has finished in [115] ms
+04-Oct-2022 14:57:25.935 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Oct-2022 14:57:25.941 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [323] milliseconds
+04-Oct-2022 15:02:26.021 INFO [Catalina-utility-1] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/conf/tomcat-users.xml]
+04-Oct-2022 15:02:34.904 INFO [http-nio-8080-exec-1] org.apache.coyote.http11.Http11Processor.service Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+	java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x010x020x000x010x000x010xfc0x030x030x1d0x1d0xda0x8d0x930xeab0xbf0x960x13\0xb50xc20xb70xd90x05-0x1bI0xa30xa7+d0xa2Z0x0dX0xe00x15p0xe1D ]. HTTP method names must be tokens
+		at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:419)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:271)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:833)
+04-Oct-2022 15:31:31.416 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+04-Oct-2022 15:31:31.418 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Oct-2022 15:31:31.444 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+04-Oct-2022 15:31:31.451 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+04-Oct-2022 15:44:57.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.67
+04-Oct-2022 15:44:57.787 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 23 2022 11:22:29 UTC
+04-Oct-2022 15:44:57.787 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.67.0
+04-Oct-2022 15:44:57.787 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+04-Oct-2022 15:44:57.787 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.19.0-76051900-generic
+04-Oct-2022 15:44:57.787 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-Oct-2022 15:44:57.787 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-17-openjdk-amd64
+04-Oct-2022 15:44:57.787 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.4+8-Ubuntu-122.04
+04-Oct-2022 15:44:57.787 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Private Build
+04-Oct-2022 15:44:57.787 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67
+04-Oct-2022 15:44:57.787 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67
+04-Oct-2022 15:44:57.792 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Oct-2022 15:44:57.792 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Oct-2022 15:44:57.792 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Oct-2022 15:44:57.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Oct-2022 15:44:57.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Oct-2022 15:44:57.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/conf/logging.properties
+04-Oct-2022 15:44:57.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Oct-2022 15:44:57.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-Oct-2022 15:44:57.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Oct-2022 15:44:57.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+04-Oct-2022 15:44:57.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+04-Oct-2022 15:44:57.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67
+04-Oct-2022 15:44:57.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67
+04-Oct-2022 15:44:57.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/temp
+04-Oct-2022 15:44:57.794 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+04-Oct-2022 15:44:57.958 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Oct-2022 15:44:57.970 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [283] milliseconds
+04-Oct-2022 15:44:57.991 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Oct-2022 15:44:57.991 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.67]
+04-Oct-2022 15:44:57.995 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/ROOT]
+04-Oct-2022 15:44:58.131 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/ROOT] has finished in [137] ms
+04-Oct-2022 15:44:58.132 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/docs]
+04-Oct-2022 15:44:58.142 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/docs] has finished in [10] ms
+04-Oct-2022 15:44:58.142 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/host-manager]
+04-Oct-2022 15:44:58.161 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/host-manager] has finished in [19] ms
+04-Oct-2022 15:44:58.161 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/manager]
+04-Oct-2022 15:44:58.185 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/manager] has finished in [24] ms
+04-Oct-2022 15:44:58.185 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/examples]
+04-Oct-2022 15:44:58.301 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/examples] has finished in [116] ms
+04-Oct-2022 15:44:58.303 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Oct-2022 15:44:58.309 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [338] milliseconds
+04-Oct-2022 15:46:16.495 INFO [http-nio-8080-exec-5] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/webapp-1.0-SNAPSHOT.war]
+04-Oct-2022 15:46:16.509 INFO [http-nio-8080-exec-5] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/vicente/Documents/universidade/lei-ies/lab2/lab2_1/apache-tomcat-9.0.67/webapps/webapp-1.0-SNAPSHOT.war] has finished in [15] ms
+04-Oct-2022 15:49:21.743 WARNING [main] org.apache.catalina.core.StandardServer.await Invalid shutdown command [] received

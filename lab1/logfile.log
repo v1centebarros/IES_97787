@@ -1,0 +1,3 @@
+2022-09-29 02:16:22.664 [main] DEBUG org.example.WeatherStarter - Debug log message
+2022-09-29 02:16:22.666 [main] INFO  org.example.WeatherStarter - Info log message
+2022-09-29 02:16:22.666 [main] ERROR org.example.WeatherStarter - Error log message
