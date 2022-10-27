@@ -1,0 +1,21 @@
+services:
+  database:
+    image: mysql:5.7
+    volumes:
+      - ./dumps:/docker-entrypoint-initdb.d:ro
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: demo
+      MYSQL_USER: demo
+      MYSQL_PASSWORD: secret2
+    ports:
+      - 9000:3306/tcp
+
+  app:
+    build: .
+    ports:
+      - 8080:8080/tcp
+    depends_on:
+      - database
+    restart: unless-stopped
