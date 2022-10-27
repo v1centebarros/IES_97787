@@ -26,4 +26,21 @@ The rule is defined by annotating a **@NotBlank** constrain to the value email (
 
 ## Multilayer applications: exposing data with REST interface
 
+All the screenshots are available on lab03/ex3_2/endpoints_screenshots
 
+# Review Questions
+
+## A. Explain the differences between the RestController and Controller components used in different parts of this lab.
+
+The **@RestController** annotation is a specialized version of the **@Controller** annotation. It includes the **@Controller** and **@ResponseBody** annotations and as a result, simplifies the controller implementation. The **@Controller** annotation is used to mark a class as a controller so that Spring can recognize it when component scanning is being used. The **@ResponseBody** annotation is used to bind the controller's return value to the web response body.
+
+## B. Create a visualization of the Spring Boot layers (UML diagram or similar), displaying the key abstractions in the solution of 3.3, in particular: entities, repositories, services and REST controllers.
+All the diagrams are available at lab03/ex03/diagrams
+
+## C) Explain the annotations @Table, @Colum, @Id found in the Employee entity.
+
+The **@Table** annotation is used to specify the details of the table that will be used to persist the entity in the database. The **@Column** annotation is used to specify the details of the column that will be used to persist the entity in the database. The **@Id** annotation is used to specify the primary key of an entity.
+
+## D) Explain the use of the annotation @AutoWired (in the Rest Controller class).
+
+The **@Autowired** annotation is used to inject the object dependency implicitly. It works on the setter methods, constructors, and properties. It can be used to autowire bean on the setter method, constructor, and a property. It is used to inject the object dependency implicitly. It is used to inject the object dependency implicitly. It is used to inject the object dependency implicitly.
